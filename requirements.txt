@@ -1,0 +1,7 @@
+mss
+Pillow
+numpy
+sounddevice
+plyer
+pystray
+pyautogui
