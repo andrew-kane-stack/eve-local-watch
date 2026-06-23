@@ -7,7 +7,11 @@ build.py
 requirements.txt
 
 2. Open a terminal in that folder and run:
+
 pip install -r requirements.txt
+
 pip install pyinstaller
+
 python build.py
-3. Wait — PyInstaller takes 1-2 minutes. When done you'll see ✅ Build successful!
+
+5. Wait — PyInstaller takes 1-2 minutes. When done you'll see ✅ Build successful!
